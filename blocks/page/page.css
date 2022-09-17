@@ -4,4 +4,6 @@
     padding-top: 28px;
     font-family: 'Inter';
     padding-bottom: 24px;
+    max-width: 1280px;
+    margin: auto;
 }
