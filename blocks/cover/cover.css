@@ -1,0 +1,16 @@
+.cover {
+    width: 1184px;
+    height: 740px;
+    margin: 92px auto 0 auto;
+    background-image: url(../../images/baikal.png);
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cover:hover .cover__overlay {
+    opacity: 0.8;
+}
+
