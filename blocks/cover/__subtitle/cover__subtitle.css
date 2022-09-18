@@ -10,7 +10,7 @@
         width: 360px;
         font-size: 18px;
         line-height: 22px;
-        margin: 32px 0 0 0;
+        margin: 32px auto 0 auto;
     }
 
 }
@@ -20,7 +20,7 @@
         width: 360px;
         font-size: 18px;
         line-height: 22px;
-        margin: 32px 0 0 0;
+        margin: 32px auto 0 auto;
     }
 
 }
@@ -30,7 +30,7 @@
         width: 360px;
         font-size: 18px;
         line-height: 22px;
-        margin: 32px 0 0 0;
+        margin: 32px auto 0 auto;
     }
 }
 

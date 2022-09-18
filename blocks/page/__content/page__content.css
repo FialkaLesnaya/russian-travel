@@ -1,6 +1,6 @@
 .page__content {
     border-radius: 0px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Times New Roman', Times, serif;
     padding-bottom: 24px;
     margin: auto;
 }
