@@ -1,6 +1,6 @@
 @media screen and (min-width: 768px) {
     .footer__link-element {
-        margin-right: 18px;  
+        margin-right: 18px;
         display: inline;
     }
 }
@@ -10,7 +10,7 @@
         display: block;
     }
 
-    .footer__link-element +  .footer__link-element {
-        margin-top: 32px; 
+    .footer__link-element+.footer__link-element {
+        margin-top: 32px;
     }
-} 
+}
