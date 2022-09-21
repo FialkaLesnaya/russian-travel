@@ -15,3 +15,10 @@
         margin: 88px auto 0 auto;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .places {
+        max-width: 320px;
+        margin: 64px auto 0 auto;
+    }
+}
